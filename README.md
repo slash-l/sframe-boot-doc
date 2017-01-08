@@ -1,7 +1,5 @@
 # sframe 文档汇总
 
-***
-
 ## 工程结构
 ### sframe-backend  后端
 * sframe-boot-web:       rest api，controller层
